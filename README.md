@@ -128,3 +128,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by classic rhythm games like Dance Dance Revolution and Guitar Hero
 - Built with [Pygame](https://www.pygame.org/) - cross-platform Python modules for games
 - Thanks to all contributors and testers!
+
+## Contact
+
+Om Gedam
+
+GitHub: @itsomg134
+
+Email: omgedam123098@gmail.com
+
+Twitter (X): @omgedam
+
+LinkedIn: Om Gedam
+
+Portfolio: https://ogworks.lovable.app
