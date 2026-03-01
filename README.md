@@ -2,7 +2,7 @@
 
 A fast-paced arcade-style game where you test your reflexes by matching falling arrows with keyboard inputs! Built with Python and Pygame.
 
-![Game Screenshot](screenshot.png)
+![Screenshot_1-3-2026_233410_127 0 0 1](https://github.com/user-attachments/assets/2f34a022-d271-415f-8c8c-7d5505c4149a)
 
 ##  Game Overview
 
